@@ -9,7 +9,6 @@ Aria.ai is a conversational chatbot built using natural language processing (NLP
 Aria.ai is a conversational chatbot that engages with users in human-like conversations, answering questions, providing information, and assisting with tasks.
 
 
-Answer 1
 
 #### How does Aria.ai work?
 
