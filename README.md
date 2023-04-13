@@ -5,13 +5,7 @@ Our financial AI project aims to revolutionize the way individuals and businesse
 ## FAQ
 
 #### What is Aria.ai?
-Aria.ai is a conversational chatbot that engages with users in human-like conversations, answering questions, providing information, and assisting with tasks.
-
-
-
-#### How does Aria.ai work?
-
-Aria.ai uses natural language processing (NLP) and machine learning (ML) techniques to process and understand user inputs. The bot is built using modern programming languages and popular NLP and ML libraries to process and understand user inputs. Aria's conversational abilities are constantly improving through machine learning algorithms that analyze user interactions and adapt to new scenarios.
+Aria.ai is a financial A.i. model that will advise different investments, sales, and other financial decisions 
 
 
 #### What can I do to help?
