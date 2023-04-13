@@ -16,15 +16,15 @@ Aria.ai uses natural language processing (NLP) and machine learning (ML) techniq
 
 #### What can I do to help?
 
-Data Analysis and Modeling: We need experts in data analysis and modeling to help us develop and refine algorithms that can make predictions and recommendations based on financial data.
+  Data Analysis and Modeling: We need experts in data analysis and modeling to help us develop and refine algorithms that can make predictions and recommendations    based on financial data.
 
-Machine Learning: We need individuals with experience in machine learning to help us build and train models that can recognize patterns in financial data and make predictions based on those patterns.
+  Machine Learning: We need individuals with experience in machine learning to help us build and train models that can recognize patterns in financial data and make predictions based on those patterns.
 
-Finance and Accounting: We need individuals with expertise in finance and accounting to help us understand and interpret financial data, and to ensure that our AI models are accurate and reliable.
+  Finance and Accounting: We need individuals with expertise in finance and accounting to help us understand and interpret financial data, and to ensure that our AI models are accurate and reliable.
 
-Software Development: We need skilled software developers to help us build the infrastructure and tools necessary to support our AI models, including data storage, processing, and visualization.
+  Software Development: We need skilled software developers to help us build the infrastructure and tools necessary to support our AI models, including data storage, processing, and visualization.
 
-Business Strategy: We need individuals with experience in business strategy and development to help us identify opportunities and markets for our financial AI solutions, and to help us develop partnerships and collaborations with other organizations in the financial sector.
+  Business Strategy: We need individuals with experience in business strategy and development to help us identify opportunities and markets for our financial AI solutions, and to help us develop partnerships and collaborations with other organizations in the financial sector.
 
 #### Is my personal information safe with Aria.ai?
 
